@@ -1,0 +1,23 @@
+{
+  "name": "upload",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zdy <boxuerixin@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "plupload": "^3.1.0",
+    "qiniu": "^1.0.19"
+  }
+}
